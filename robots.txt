@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://megamedusacasino-online.com/
+Sitemap: https://megamedusacasino-online.com/sitemap.xml

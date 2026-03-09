@@ -1,0 +1,19 @@
+{
+  "name": "Mega Medusa Casino",
+  "short_name": "Mega Medusa Casino",
+  "theme_color": "",
+  "background_color": "#011010",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773049092-favicon-32x32-28.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
